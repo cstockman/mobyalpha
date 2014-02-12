@@ -1,0 +1,22 @@
+body {
+  background: #000 url('/img/mobyAlpha-Simple-NoText-Small.jpg') no-repeat center bottom;
+  font-family: 'Open Sans', sans-serif;
+  padding-top:70px;
+}
+
+  .site-wrapper-inner {
+    vertical-align: top;
+  }
+
+h1 {
+    font-size:70px;
+    text-shadow: 0 0 12px #FFF;
+}
+
+.navbar {
+    background:#1b1b1b;
+}
+
+.cover-quote {
+  font-size:14px;
+}
