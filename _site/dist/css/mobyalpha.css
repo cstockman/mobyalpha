@@ -1,5 +1,5 @@
 body {
-  background: #000 url('/img/mobyAlpha-Simple-NoText-Small.jpg') no-repeat center bottom;
+  background: #000 url('../../img/mobyAlpha-Simple-NoText-Small.jpg') no-repeat center bottom;
   font-family: 'Open Sans', sans-serif;
   padding-top:70px;
 }

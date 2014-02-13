@@ -50,7 +50,7 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
 /*  background: #000 url('/img/mobyAlpha-Simple-NoText-Small.jpg') no-repeat center bottom; */
-  background: #000 url('/img/mobyAlphaHighRes-Simple-Dark.jpg') no-repeat center bottom;
+  background: #000 url('../..//img/mobyAlphaHighRes-Simple-Dark.jpg') no-repeat center bottom;
   height: 100%;
 /*    padding-top: 150px; */
     text-align: center;
@@ -81,7 +81,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 70px;
     text-align: left;
-    background: #000 url('/img/Charles-Sketch-Fest-4-gradient-small.jpg') no-repeat right bottom;
+    background: #000 url('../../img/Charles-Sketch-Fest-4-gradient-small.jpg') no-repeat right bottom;
 /*    background: #eee; */
 }
 
