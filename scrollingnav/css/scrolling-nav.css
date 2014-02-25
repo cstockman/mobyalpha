@@ -78,16 +78,26 @@ of those sections to manage the look and feel of the site. */
 */
 
 .about-section {
+    padding-top: 70px;
+    text-align: left;
+/*  height: 100%; Charlie: now it's as big as necessary*/
+/*    background: #000 url('../../img/Charles-Sketch-Fest-4-gradient-small.jpg') no-repeat right bottom;
+/*    background: #eee; */
+}
+
+.preview-section {
     height: 100%;
     padding-top: 70px;
     text-align: left;
-    background: #000 url('../../img/Charles-Sketch-Fest-4-gradient-small.jpg') no-repeat right bottom;
-/*    background: #eee; */
+}
+
+.video {
+border: 1px solid #ddd;
 }
 
 .services-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 70px;
     text-align: left;
 /*    background: #fff; */
 }
