@@ -51,7 +51,7 @@ of those sections to manage the look and feel of the site. */
 .intro-section {
 /*  background: #000 url('/img/mobyAlpha-Simple-NoText-Small.jpg') no-repeat center bottom; */
   background: #000 url('../../img/mobyAlphaHighRes-Simple-Dark.jpg') no-repeat center bottom;
-  height: 100%;
+/*  height: 100%; */
 /*    padding-top: 150px; */
     text-align: center;
     /*    background: #fff; */
@@ -86,7 +86,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .preview-section {
-    height: 100%;
+    /*height: 100%;*/
     padding-top: 70px;
     text-align: left;
 }
@@ -122,6 +122,14 @@ border: 1px solid #ddd;
     padding-top: 150px;
     text-align: center;
 /*    background: #eee; */
+}
+
+@media (min-width: 768px) {
+    .intro-section,
+    .preview-section
+    {
+	height:100%;
+    }
 }
 
 /*
