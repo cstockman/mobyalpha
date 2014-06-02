@@ -85,6 +85,10 @@ of those sections to manage the look and feel of the site. */
 /*    background: #eee; */
 }
 
+.about-section div img {
+    width: 100%
+}
+
 .preview-section {
     /*height: 100%;*/
     padding-top: 70px;
